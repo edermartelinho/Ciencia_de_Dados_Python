@@ -1,2 +1,2 @@
 # Ciencia_de_Dados_Python
-#Analise de Dataset Diabets.csv/DiabetesCat.csz
+#Analise de Dataset Diabets.csv/DiabetesCat.csv
